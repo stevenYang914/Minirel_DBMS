@@ -1,7 +1,7 @@
 # Minirel Database Management System
 
 ## ER Modeling & Schema Design
-<img width="666" alt="截屏2023-06-01 14 57 51" src="https://github.com/stevenYang914/Minirel_DBMS/assets/79009848/7b9c2e68-25ac-40f5-a9da-5620735df708">
+<img width="666" alt="2023-06-01 14 57 51" src="https://github.com/stevenYang914/Minirel_DBMS/blob/main/2.%20ER%20Modeling%20&%20Schema%20Design/%E6%88%AA%E5%B1%8F2023-06-01%2014.57.51.png?raw=true">
 
 
 
